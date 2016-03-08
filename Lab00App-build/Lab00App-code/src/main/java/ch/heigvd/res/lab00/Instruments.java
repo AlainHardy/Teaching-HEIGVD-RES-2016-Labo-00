@@ -23,7 +23,7 @@ class Trumpet implements IInstrument {
 class Flute implements IInstrument {
 	
 	public  String play() {
-		return "pffuuuu";
+		return "trilili";
 	}
 	public int getSoundVolume() {
 		return 10;
